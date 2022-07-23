@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="6dp"
+    android:elevation="6dp"
+    app:cardUseCompatPadding="true">
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:padding="15dp">
+
+
+       <TextView
+           android:id="@+id/vehiclenumtv"
+          android:textStyle="bold"
+           android:textColor="#000"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Vehicle Number"
+           android:textSize="25sp"
+           android:layout_margin="10dp"/>
+
+       <TextView
+           android:layout_margin="10dp"
+           android:id="@+id/typeofvoiltv"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Type of Voilation"
+           android:textStyle="bold"
+           android:textColor="#000"
+           android:textSize="25sp"
+           android:layout_below="@+id/vehiclenumtv"/>
+
+       <TextView
+           android:layout_margin="10dp"
+           android:id="@+id/timetv"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Time"
+           android:textStyle="bold"
+           android:textColor="#000"
+           android:textSize="25sp"
+           android:layout_below="@+id/typeofvoiltv"/>
+
+       <TextView
+           android:layout_margin="10dp"
+           android:id="@+id/datelayout"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Date"
+           android:textStyle="bold"
+           android:textColor="#000"
+           android:textSize="25sp"
+           android:layout_below="@+id/timetv"/>
+
+       <TextView
+           android:layout_margin="10dp"
+           android:id="@+id/amounttvupadtechallna"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Amount"
+           android:textStyle="bold"
+           android:textColor="#000"
+           android:textSize="25sp"
+           android:layout_below="@+id/datelayout"/>
+
+
+   </RelativeLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>

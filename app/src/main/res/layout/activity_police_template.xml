@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".policeTemplate"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/usermainback">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="30dp"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/updatechallaniv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/ic_view_6444" />
+
+        <TextView
+            android:id="@+id/updatechallantv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Update Challan"
+            android:textColor="#BF360C"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/meritpointsiv"
+            android:layout_width="match_parent"
+            android:layout_height="91dp"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/ic_reward_icon_svg_psokvd" />
+
+        <TextView
+            android:id="@+id/meritpointstv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="Update Merit Points"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#BF360C"/>
+
+        <ImageView
+            android:id="@+id/theftcariv"
+            android:layout_width="327dp"
+            android:layout_height="119dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/ic__d1b08a1_2bd5_4650_855b_8c3c4ef4dd94" />
+
+        <TextView
+            android:id="@+id/theftcartv"
+            android:textColor="#BF360C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Update Theft Vehicle  Data"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/statisticsiv"
+            android:layout_width="match_parent"
+            android:layout_height="88dp"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/ic_statistics_svgrepo_com" />
+
+        <TextView
+            android:id="@+id/statisticstv"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:textColor="#BF360C"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="Violation Statistics"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.167" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" value="0.167" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.167" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.167" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/drawable/ic_policeman_svgrepo_com.xml" value="0.167" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/drawable/ic_user_139.xml" value="0.167" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/drawable/side_nav_bar.xml" value="0.167" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/font/.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout-v21/userchallantemplate.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_check_theft_data.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_police_login.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_police_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_police_template.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_police_updation.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_predict_traffic.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_predict_traffic2.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_splash.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_theftdatacheckpage.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_update_merit_points.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_update_theft_data.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_user_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_view_challan.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/activity_view_challan2.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/app_bar_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/challan_item.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/content_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/content_view_challan.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/fragment_first.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/fragment_gallery.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/fragment_second.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/fragment_slideshow.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/location_layout.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/nav_header_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/spinner_weather.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/userchallantemplate.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/viewtemplate.xml" value="0.22" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/layout/voilation_layout.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/menu/activity_main_drawer.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/menu/logout_menu.xml" value="0.1578125" />
+        <entry key="..\:/Users/nomul/OneDrive/Desktop/SmartEchallan2/app/src/main/res/menu/main.xml" value="0.1578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">SmartEchallan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="splashicon">splashicon</string>
+    <string name="aboutpagetv">About</string>
+    <string name="exitdr">Exit</string>
+    <string name="police_icon_signup">police_icon</string>
+    <string name="title_activity_view_challan">ViewChallan</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="type_of_voilation">Type of Voilation</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="amount">Amount</string>
+    <string name="police_stationtv">Police Station</string>
+    <string name="nav_to_home_signin">nav_to_home_signin</string>
+    <string name="enter_vehicle_number">Enter Vehicle Number</string>
+    <string name="vehicle_Number" />
+    <string name="Voilation" />
+    <string name="Date" />
+    <string name="Time" />
+    <string name="Amount" />
+    <string name="amount1">Amount</string>
+    <string name="weather">*weather</string>
+    <string name="contact_us">ContactUs</string>
+    <string-array name="array_policestation">
+        <item>Select Police Station</item>
+        <item>ABIDS Police Station</item>
+        <item>Afzalgunj Police Station</item>
+        <item>Amberpet Police Station</item>
+        <item>Begum Bazar Police Station</item>
+        <item>Begumpet Police Station</item>
+        <item>Chandrayangutta Police Station</item>
+        <item>Charminar Police Station</item>
+        <item>HyderGuda Police Station</item>
+        <item>Kukatpallu Police Station</item>
+        <item>S R Nagar Police Station</item>
+        <item>Tolichoki Police Station</item>
+        <item>Mehdipatanam Police Station</item>
+        <item>MettuGuda Police Station</item>
+
+    </string-array>
+    <string-array name="array_weather">
+        <item>select weather condition</item>
+        <item>tornado</item>
+        <item>tropical storm</item>
+        <item>hurricane</item>
+        <item>severe thunderstorms</item>
+        <item>thunderstorms</item>
+        <item>mixed rain and snow</item>
+        <item>mixed rain and sleet</item>
+        <item>mixed snow and sleet</item>
+        <item>freezing drizzle</item>
+        <item>drizzle</item>
+        <item>freezing rain</item>
+        <item>showers morning</item>
+        <item>showers night</item>
+        <item>snow flurries</item>
+        <item>light snow showers</item>
+        <item>blowing snow</item>
+        <item>snow</item>
+        <item>hail</item>
+        <item>sleet</item>
+        <item>dust</item>
+        <item>foggy</item>
+        <item>haze</item>
+        <item>smoky</item>
+        <item>blustery</item>
+        <item>windy</item>
+        <item>cold</item>
+        <item>cloudy</item>
+        <item>mostly cloudy(night)</item>
+        <item>mostly cloudy(day)</item>
+        <item>partly cloudy(night)</item>
+        <item>partly cloudy(day)</item>
+        <item>clear(night)</item>
+        <item>sunny</item>
+        <item>fair(night)</item>
+        <item>fair(day)</item>
+        <item>mixed rain and hail</item>
+        <item>hot</item>
+        <item>isolated thunderstroms</item>
+        <item>scatteredthunderstroms morning</item>
+        <item>scatteredthunderstroms night</item>
+        <item>scattered showers</item>
+        <item>heavy snow morning</item>
+        <item>scattered snow showers</item>
+        <item>heavy snow night</item>
+        <item>partly cloudy</item>
+        <item>thundershowers</item>
+        <item>snow showers</item>
+        <item>isolated thundershowers</item>
+
+
+    </string-array>
+    <string-array name="array_voil">
+        <item>Select type of violation</item>
+        <item>Drunk and Drive</item>
+        <item>Triple Riding</item>
+        <item>Signal Jump</item>
+        <item>OverSpeeding</item>
+        <item>No Parking</item>
+        <item>Distracted Driving</item>
+        <item>Wrong Side</item>
+    </string-array>
+
+</resources>

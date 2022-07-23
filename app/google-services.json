@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027183416385",
+    "firebase_url": "https://smartechallan-3fb84-default-rtdb.firebaseio.com",
+    "project_id": "smartechallan-3fb84",
+    "storage_bucket": "smartechallan-3fb84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027183416385:android:db9918b35fa81c2114e2c0",
+        "android_client_info": {
+          "package_name": "com.example.smartechallan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027183416385-bvc4k90vb0iqn2naj6o4eam0704n2ije.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzORYGq6p1iiApR4DQdGs3emGIAgYXsuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027183416385-bvc4k90vb0iqn2naj6o4eam0704n2ije.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
